@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Stockholm",
+    "activities": ["Visit Gamla stan (Old Town)", "Explore Skansen", "Take a boat tour in the archipelago"],
+    "overnight_cost": "1000 SEK"
+  },
+  {
+    "name": "Göteborg",
+    "activities": ["Visit Liseberg amusement park", "Explore Universeum", "Take a walk in Slottsskogen (Castle Forest Park)"],
+    "overnight_cost": "800 SEK"
+  },
+  {
+    "name": "Malmö",
+    "activities": ["Visit Turning Torso", "Explore Malmöhus Castle", "Walk along Ribersborg Beach"],
+    "overnight_cost": "700 SEK"
+  },
+  {
+    "name": "Uppsala",
+    "activities": ["Visit Uppsala Cathedral", "Explore Gamla Uppsala burial mounds", "Take a bike ride along Fyrisån River"],
+    "overnight_cost": "600 SEK"
+  },
+  {
+    "name": "Västerås",
+    "activities": ["Visit Västerås Cathedral", "Explore Vallby Open Air Museum", "Take a boat tour on Lake Mälaren"],
+    "overnight_cost": "550 SEK"
+  },
+  {
+    "name": "Örebro",
+    "activities": ["Visit Örebro Castle", "Explore Wadköping", "Walk along the Svartån River"],
+    "overnight_cost": "600 SEK"
+  },
+  {
+    "name": "Linköping",
+    "activities": ["Visit Gamla Linköping (Old Linköping)", "Explore the Swedish Air Force Museum", "Take a walk along Stångån River"],
+    "overnight_cost": "550 SEK"
+  },
+  {
+    "name": "Helsingborg",
+    "activities": ["Visit Sofiero Castle and Gardens", "Explore Dunkers Kulturhus (Dunkers Culture House)", "Take the ferry to Helsingør, Denmark"],
+    "overnight_cost": "700 SEK"
+  },
+  {
+    "name": "Jönköping",
+    "activities": ["Visit Husqvarna Museum", "Explore Rosenlunds Rosarium", "Take a boat tour on Lake Vättern"],
+    "overnight_cost": "600 SEK"
+  },
+  {
+    "name": "Norrköping",
+    "activities": ["Visit the Industrial Landscape", "Explore the Museum of Work", "Take a stroll along the Motala River"],
+    "overnight_cost": "550 SEK"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "user": "John Doe",
+    "email": "john@example.com",
+    "city": "Stockholm",
+    "activity": ["Besöka Gamla stan", "Utforska Skansen", "Ta en båttur i skärgården"],
+    "nights": 2,
+    "dateRange": {
+      "start": "2024-04-24T14:08:12.000Z",
+      "end": "2024-04-30T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 1
+  },
+  {
+    "user": "John Doe",
+    "email": "john@example.com",
+    "city": "Göteborg",
+    "activity": ["Besöka Liseberg nöjespark", "Utforska Universeum", "Promenera i Slottsskogen"],
+    "nights": 1,
+    "dateRange": {
+      "start": "2024-05-01T14:08:12.000Z",
+      "end": "2024-05-02T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 2
+  },
+  {
+    "user": "Jane Smith",
+    "email": "jane@example.com",
+    "city": "Malmö",
+    "activity": ["Besöka Turning Torso", "Utforska Malmöhus slott", "Gå längs Ribersborgsstranden"],
+    "nights": 2,
+    "dateRange": {
+      "start": "2024-05-03T14:08:12.000Z",
+      "end": "2024-05-05T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 3
+  },
+  {
+    "user": "Jane Smith",
+    "email": "jane@example.com",
+    "city": "Uppsala",
+    "activity": ["Besöka Uppsala domkyrka", "Utforska Gamla Uppsala gravfält", "Ta en cykeltur längs Fyrisån"],
+    "nights": 1,
+    "dateRange": {
+      "start": "2024-05-06T14:08:12.000Z",
+      "end": "2024-05-07T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 4
+  },
+  {
+    "user": "Alice Johnson",
+    "email": "alice@example.com",
+    "city": "Västerås",
+    "activity": ["Besöka Västerås domkyrka", "Utforska Vallby Friluftsmuseum", "Ta en båttur på Mälaren"],
+    "nights": 1,
+    "dateRange": {
+      "start": "2024-05-08T14:08:12.000Z",
+      "end": "2024-05-09T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 5
+  },
+  {
+    "user": "Alice Johnson",
+    "email": "alice@example.com",
+    "city": "Örebro",
+    "activity": ["Besöka Örebro slott", "Utforska Wadköping", "Gå längs Svartån"],
+    "nights": 1,
+    "dateRange": {
+      "start": "2024-05-10T14:08:12.000Z",
+      "end": "2024-05-11T00:00:00.000Z"
+    },
+    "notes": "",
+    "id": 6
+  }
+]
