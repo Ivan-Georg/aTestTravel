@@ -47,14 +47,13 @@ export default function PlanTravels() {
     };
 
     const handleDateRangeChange = useCallback((range: { start: Date; end: Date }) => {
-        setDateRange(range);
-        if (range.start && range.end) {
+        if (range.start !== dateRange.start || range.end !== dateRange.end) { 
+            setDateRange(range); // Flyttar in denna in i if satsen där vi jämför för att det faktiskt har blivit en förändring i datum
             const diffInTime = range.end.getTime() - range.start.getTime();
             const diffInDays = diffInTime / (1000 * 3600 * 24);
-            const nights = Math.ceil(diffInDays);
-            setNights(nights);
+            setNights(Math.ceil(diffInDays));
         }
-    }, []);
+    }, [dateRange.start, dateRange.end]); // bakade in variablerna som dependencies för att kunna ha med dem i if satsen
 
     const handleNightsChange = (nights: number) => {
         setNights(nights);
